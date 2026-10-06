@@ -1,0 +1,16 @@
+<resources>
+        <string name="balance_label">Balance: ৳%1$d</string>
+        <string name="price_format">৳%1$d</string>
+        <string name="select_data_plan">Select Data Plan</string>
+        <string name="buy_plan">Buy plan</string>
+        <plurals name="validity_days">
+            <item quantity="one">%1$d Day</item>
+            <item quantity="other">%1$d Days</item>
+        </plurals>
+        <plurals name="validity_hours">
+            <item quantity="one">%1$d Hour</item>
+            <item quantity="other">%1$d Hours</item>
+        </plurals>
+</resources>
+
+
